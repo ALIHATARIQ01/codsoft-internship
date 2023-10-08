@@ -1,8 +1,8 @@
-# Codsft Internship (C++ Programming)
+![image](https://github.com/ALIHATARIQ01/codsoft-internship/assets/120319320/d21b966a-5f59-4eaf-9ecc-7c16a0fcb0a9)# Codsft Internship (C++ Programming)
 
 ### NUMBER GUESSING GAME
 - This is link for task 1 [NUMBER GUESSING GAME](https://github.com/ALIHATARIQ01/codsoft-internship/tree/main/task1_number_guessing_system)
- This game is guessing game.The random number is secreate number. It takes input from the user.
+![Screen shoot](Task.JPJ)
 ### calculator
 - This is link for task 2 [calculator](https://github.com/ALIHATARIQ01/codsoft-internship/tree/main/task2_calculator)
 ### TIC TAC TOE
