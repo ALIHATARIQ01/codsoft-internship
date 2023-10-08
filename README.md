@@ -7,6 +7,7 @@
 
 ### calculator
 - This is link for task 2 [calculator](https://github.com/ALIHATARIQ01/codsoft-internship/tree/main/task2_calculator)
+  ![image](Task2.JPJ)
 - 
 ### TIC TAC TOE
 - This is link for task 1 [Tic Tac Toe Game](https://github.com/ALIHATARIQ01/codsoft-internship/tree/main/task3_tic_tac_toe_game)
